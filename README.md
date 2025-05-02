@@ -17,24 +17,12 @@ This application allows users to add tasks, mark them as completed, and delete t
 
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
-   '''
+   
 2. **Navigate to the project folder**:
 
 ```bash
 cd todo-list-app
-'''
 
-Open the index.html file in your browser:
-
-Simply open index.html in your favorite web browser, and you’re good to go!
-
-Alternatively, you can use any static file server if you're familiar with that process (e.g., Live Server for VS Code).
-
-3. **Contributing**
-Feel free to fork the repository and submit pull requests! Contributions are always welcome.
-
-
----
 
 ### Additional Notes:
 - Replace `https://github.com/your-username/todo-list-app.git` with the actual URL of your repository if you plan to host this on GitHub.
